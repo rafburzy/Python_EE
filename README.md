@@ -1,4 +1,4 @@
 Python_EE
 =========
 
-Repository for my iPython projects for topics related to electrical engineering
+Repository for my IPython projects for topics related to electrical engineering
